@@ -13,8 +13,7 @@ This repository contains my completed deliverables and workflows for the **Dathe
 
 ---
 
-### ⏳ Task 2: Coming Soon
-* *In progress*
-
-### ⏳ Task 3: Coming Soon
-* *In progress*
+### ✅ Task 2: AI-Assisted Short-Form Video Production
+* **Folder:** [`Task-2-Short-Form-Video-Production/`](./Task-2-Short-Form-Video-Production)
+* **Tools Used:** ChatGPT / Claude, ElevenLabs (AI Voiceover), Microsoft Clipchamp (9:16 Editing, B-Roll & Dynamic Auto-Captions)
+* **Summary:** Scripted, voiced, and edited two vertical (9:16) short-form videos aligned with the Gucci brand strategy developed in Task 1.
